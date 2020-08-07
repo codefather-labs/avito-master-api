@@ -1,7 +1,15 @@
 # Avito Master API
 
-#Demo version is not supporting proxy!
+=======
+### Demo version is not supporting proxy!
+### For use all functions, contact me!
+
 ![](https://assets.entrepreneur.com/content/3x2/2000/20180703190744-rollsafe-meme.jpeg?format=jpg&width=400&crop=3:2)
+
+# Info
+
+* It's compiled python code based of FastAPI
+* It's runs inside of docker, so it's safely
 
 # Getting started
 
