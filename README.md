@@ -1,5 +1,4 @@
-image:: https://img.shields.io/github/license/codefather-labs/avito-master-api
-   :target: https://github.com/codefather-labs/avito-master-api
+
 
 # Avito Master API
 
