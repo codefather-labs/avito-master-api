@@ -5,16 +5,16 @@
 
 ![](https://assets.entrepreneur.com/content/3x2/2000/20180703190744-rollsafe-meme.jpeg?format=jpg&width=400&crop=3:2)
 
-# Info
+# Инфа
 
 * Это скомпилированный бинарник, написанный на языке python + FastAPI
 * Это запускается внутри докера, поэтому запуск софтины безопасен
 
-# Getting started
+# Первый делом
 
 * Скачать и установить docker и docker-compose
 
-# Deploy
+# Использование
 
 * клонирова репозиторий: git clone https://github.com/codefather-labs/avito-master-api.git
 * перейти в папку: cd avito-master-api
