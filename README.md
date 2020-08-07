@@ -1,6 +1,5 @@
 # Avito Master API
 
-=======
 ### Demo version is not supporting proxy!
 ### For use all functions, contact me!
 
