@@ -1,28 +1,27 @@
 # Avito Master API
 
-### Demo version is not supporting proxy!
-### For use all functions, contact me!
+### Это демо версия без поддержки прокси серверов! 
+### Для использования полной версии, свяжитесь со мной.
 
 ![](https://assets.entrepreneur.com/content/3x2/2000/20180703190744-rollsafe-meme.jpeg?format=jpg&width=400&crop=3:2)
 
 # Info
 
-* It's compiled python code based on FastAPI
-* It's runs inside of docker, so it's safely
+* Это скомпилированный бинарник, написанный на языке python + FastAPI
+* Это запускается внутри докера, поэтому запуск софтины безопасен
 
 # Getting started
 
-* download and setup docker, docker-compose
+* Скачать и установить docker и docker-compose
 
 # Deploy
 
-* git clone https://github.com/codefather-labs/avito-master-api.git
-* cd avito-master-api
-* docker-compose build && docker-compose up
-* open http://0.0.0.0:9000/
+* клонирова репозиторий: git clone https://github.com/codefather-labs/avito-master-api.git
+* перейти в папку: cd avito-master-api
+* сбилдить и запустить билд: docker-compose build && docker-compose up
+* открыть в браузере: http://0.0.0.0:9000/
 
-* This is demo version. It's can't use proxy.
-* You can buy license to using all functions.
-* contact Tg: @cyberdine_engineering 
 
-[Telegram Community](https://t.me/avito_master_api)
+* Телеграм: @cyberdine_engineering 
+
+[Сообщество](https://t.me/avito_master_api)
