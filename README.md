@@ -24,3 +24,5 @@
 * This is demo version. It's can't use proxy.
 * You can buy license to using all functions.
 * contact Tg: @cyberdine_engineering 
+
+[Telegram Community](https://t.me/avito_master_api)
