@@ -7,7 +7,7 @@
 
 # Info
 
-* It's compiled python code based of FastAPI
+* It's compiled python code based on FastAPI
 * It's runs inside of docker, so it's safely
 
 # Getting started
