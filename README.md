@@ -5,7 +5,7 @@
 ### Это демо версия без поддержки прокси серверов! 
 ### Для использования полной версии, свяжитесь со мной.
 
-![](https://assets.entrepreneur.com/content/3x2/2000/20180703190744-rollsafe-meme.jpeg?format=jpg&width=400&crop=3:2)
+![](https://static10.tgstat.ru/channels/_0/ba/ba86e738b8e804a7955a562266527aae.jpg)
 
 # Инфа
 
