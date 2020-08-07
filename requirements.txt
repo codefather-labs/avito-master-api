@@ -1,0 +1,6 @@
+aiohttp==3.6.2
+certifi==2018.4.16
+fastapi==0.60.1
+fastapi-contrib==0.2.7
+uvicorn==0.11.3
+uvloop==0.14.0

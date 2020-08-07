@@ -1,0 +1,12 @@
+version: '3'
+
+
+services:
+  api:
+    container_name: 'docker.avito-master-api-demo'
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+    - 9000:9000
