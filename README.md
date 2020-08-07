@@ -24,4 +24,4 @@
 
 * Телеграм: @cyberdine_engineering 
 
-[Сообщество](https://t.me/avito_master_api)
+[Сообщество тут](https://t.me/avito_master_api)
